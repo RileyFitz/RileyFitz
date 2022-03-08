@@ -36,6 +36,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyfitz&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileyfitz&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://Riley-Fitz.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
