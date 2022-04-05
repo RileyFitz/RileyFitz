@@ -1,6 +1,6 @@
 # Hi there, I'm Riley 👋
 
-![NodePing status](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?label=Riley-Fitz.com)
+[![Website](https://img.shields.io/website?label=riley-fitz.com&style=for-the-badge&url=https%3A%2F%2Friley-fitz.com.com)](https://Riley-Fitz.com)
 
 ## I'm a Vagabond, Developer, and Nonbinary 😎 !!
 
