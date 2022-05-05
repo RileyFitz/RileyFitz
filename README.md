@@ -4,6 +4,8 @@
 
 ## Hi! I'm a Software Engineer trying to move to Infrastructure and Cloud!
 
+[![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyfitz&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Connect with me:
 
 [![website](./img/globe-light.svg)](http://riley-fitz.com)
@@ -43,8 +45,6 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyfitz&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileyfitz&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
