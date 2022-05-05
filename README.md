@@ -2,14 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=riley-fitz.com&style=for-the-badge&url=https%3A%2F%2Friley-fitz.com.com)](https://Riley-Fitz.com)
 
-## I'm a Vagabond, Developer, and Nonbinary 😎 !!
+## Hi! I'm a Software Engineer trying to move to Infrastructure and Cloud!
 
-- 🌱 I’m currently learning Django, Docker, and AWS 🤣
-- 👯 I’m looking to collaborate with other developers. PS I enjoy OSRS 😉
-- 🥅 2022 Goals: Learn more about networking.
-- ⚡ Fun fact: I love to climb, hike, and discuss without limits,
-
-### Connect with me:
+#### Connect with me:
 
 [![website](./img/globe-light.svg)](http://riley-fitz.com)
 [![website](./img/globe-dark.svg)](http://riley-fitz.com)
@@ -17,10 +12,28 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/riley-fitzgibbons-49b10916b/)
 &nbsp;&nbsp;
 
+## Current work and about me
+- Doing nothing 😂😂
+ - After COVID (and neglect) burnout, I am traveling the world and learning at my own pace.
+- Studying cloud technologies including: **AWS EC2, S3, DBS**, Lambda, IAM.
+- Mastering containerization such as: **Docker, Docker-Compose**, Kubernetes.
+
+## Goals in 2022
+- Contribute and collaborate on more open source projects.
+- Host and market travel blog with AWS services (how cliche 😛).
+- Work with other developers on side projects. (I ❤️ OSRS)
+- Climb a V6 boulder.
+- Visit 1 new continent and 3 more countries.
+
+### Previous contributions include
+- Contributing stability enhancements and bug fixes to the [3PAR](https://www.hpe.com/us/en/storage/3par.html) data storage product.
+- Fullstack web development for internal data analysis, including C# backend and React frontend.
+- Establishing infrastructure for ELK Stack data store for enhanced data modeling.
+- Advanced internal tooling to assist in upgrade recommendations based on widely varied server configurations.
+
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
