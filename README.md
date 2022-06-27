@@ -1,6 +1,6 @@
 # Hi there, I'm Riley 👋
 
-[![Website](https://img.shields.io/website?label=riley-fitz.com&style=for-the-badge&url=https%3A%2F%2Friley-fitz.com.com)](https://Riley-Fitz.com)
+![Website](https://img.shields.io/website?label=riley-fitz.com&style=for-the-badge&up_message=online&url=http%3A%2F%2Friley-fitz.com)
 
 ## Hi! I'm a Software Engineer trying to move to Infrastructure and Cloud!
 
@@ -15,7 +15,7 @@
 &nbsp;&nbsp;
 
 ## Current work and about me
-- Doing nothing 😂😂
+- Seeking work. Preferably working FullStack, Cloud, or Devops.
  - After COVID (and neglect) burnout, I am traveling the world and learning at my own pace.
 - Studying cloud technologies including: **AWS EC2, S3, DBS**, Lambda, IAM.
 - Mastering containerization such as: **Docker, Docker-Compose**, Kubernetes.
