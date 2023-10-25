@@ -2,7 +2,11 @@
 
 ![Website](https://img.shields.io/website?label=riley-fitz.com&style=for-the-badge&up_message=online&url=http%3A%2F%2Friley-fitz.com)
 
-## Hi! I'm a Software Engineer trying to move to Infrastructure and Cloud!
+## Hi! I'm a Software Engineer
+My current work includes 
+- Modernizing legacy banking applications 
+- Git repository management and procedures
+- Implementation of CI/CD streams*
 
 [![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyfitz&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,16 +18,23 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/riley-fitzgibbons-49b10916b/)
 &nbsp;&nbsp;
 
-## Current work and about me
-- Seeking work. Preferably working FullStack, Cloud, or Devops.
- - After COVID (and neglect) burnout, I am traveling the world and learning at my own pace.
-- Studying cloud technologies including: **AWS EC2, S3, DBS**, Lambda, IAM.
-- Mastering containerization such as: **Docker, Docker-Compose**, Kubernetes.
+## Current Work and Goals
+My current work has had me creating a modernized frontend interface using Typescript and React. With the backend being integrated with existing DBs on Dotnet Core. 
 
-## Goals in 2022
-- Contribute and collaborate on more open source projects.
-- Host and market travel blog with AWS services (how cliche 😛).
+Alongside application development, I have been working to transition mercurial repos into Git repos. This includes the converting, unifying, and processing older Hg repos, to ensure history and sanity is kept. Lastly, creating Git procedures and processes for the team, that best fit our needs. 
+
+On my personal time, I have been creating a HomeLab, and trying to serve applications from it. So far I host:
+- Minecraft
+- Jellyfin
+- WireGuard
+- PiHole
+- Jupyter Notebooks
+
+I am also continuing work on my [terminal games](https://github.com/RileyFitz/terminal-games). Simple problems are fun
+
+## Personal Goals
 - Work with other developers on side projects. (I ❤️ OSRS)
+- Continuing to practice yoga
 - Climb a V6 boulder.
 - Visit 1 new continent and 3 more countries.
 
